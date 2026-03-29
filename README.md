@@ -11,8 +11,14 @@ pip install -r requirements.txt
 ## Usage
 To run the script, execute the following command:
 
+For Automation
 ```bash
 python automation.py
+```
+
+For Django
+```bash
+python manage.py runserver
 ```
 
 ## License
