@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+.venv
+__pycache__/
+.idea/
+*.pyc
+
+# System files
+.DS_Store
+
+# Env vars
+.env
+/.env
+
+db.sqlite3
+
+# Logs
+*.log
